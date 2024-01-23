@@ -1,10 +1,19 @@
 public class ALCOMENDRAS_ACTIVITY_1 {
     public static void main(String[] args) {
-        int h = 20;
-        int i = 25;
+        int A = 20;
+        int B = 25;
+        int C = 30;
 
-        int j = h + i;
+        int D = A + B;
+        int E = A* B;
+        int F = B - C;
+        int G = A / B;
 
-        System.out.println(h + i);
-    }
+        System.out.println("Addition:" + D);
+        System.out.println("Multiplication:" + E);
+        System.out.println("Subtraction:" + F);
+        System.out.println("Division:" + G);
+   }
 }
+    
+
