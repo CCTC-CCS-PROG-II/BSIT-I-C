@@ -4,14 +4,17 @@ public class LABADLABAD_ACTIVITY_I {
         int y = 20;
         int f = 30;
         int z = x+y;
-        int s = x+f;
+        int s = x-f;
+        int c = f*x;
+
+        
     
-        System.out.println(z);
-        System.out.println(f);
+        System.out.println("Sum = " + z);
+        System.out.println("Difference = " + s);
+        System.out.println("Product = " + c);
     
         
      
     }
-}
 
 }
