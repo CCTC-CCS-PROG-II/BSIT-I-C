@@ -1,22 +1,21 @@
-import java.util.Scanner;
-class HEYRES_ACTIVITY_II.java{
-    public static void main(String[] args){
-Scanner sc = new Scanner(System.in);
-System.out.print("SUM:");
+import java.util.Scanner; class HEYRES_ACTIVITY_II {
+ public static void main(String[] args) { 
+    Scanner sc = new Scanner(System.in); 
 
-int a = sc.nextInt();
-int b = sc.nextInt();
+    System.out.println("Enter your first number: "); 
+    int k = sc.nextInt(); 
 
-int sum = a+b;
-System.out.println(sum);
+    System.out.println("Enter your second number:"); 
+    int l = sc.nextInt(); 
 
+    int sum = k + j; 
+    int diff = k - j; 
+    int product = j * k ; 
 
-if (sum>=230) {
-    System.out.println("DONE");
-} else {
-    System.out.println("Done");
-}
+    System.out.println("Sum = " + sum); 
+    System.out.println("Difference = " + diff); 
+System.out.println("Product = " + product); 
 
-
-    }
+sc.close(); 
+ }
 }
