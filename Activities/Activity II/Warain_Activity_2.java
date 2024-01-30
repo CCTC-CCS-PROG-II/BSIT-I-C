@@ -3,9 +3,9 @@ public class Warain {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");
-        int fnum = input.nextInt();
+        int fnum = sc.nextInt();
         System.out.print("Enter second number: ");
-        int snum = input.nextInt();
+        int snum = sc.nextInt();
         int sum = fnum + snum;
         System.out.println("The sum is" +sum);
         int difference = fnum - snum;
