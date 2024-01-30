@@ -8,11 +8,11 @@ System.out.print("Enter first number: ");
 System.out.print("Enter first number: ");
 int snum= input.nextInt();
 
-int diffrencce= fnum-snum;
+int difference= fnum-snum;
 int sum= fnum+snum;
 int product= fnum/snum;
 
-System.out.println(" diffrencce= " + diffrencce);
+System.out.println(" diffrencce= " + difference);
 System.out.println("sum= " + sum);
 System.out.println("product= " + product);
 
