@@ -8,9 +8,9 @@ import java.util.Scanner; class HEYRES_ACTIVITY_II {
     System.out.println("Enter your second number:"); 
     int l = sc.nextInt(); 
 
-    int sum = k + j; 
-    int diff = k - j; 
-    int product = j * k ; 
+    int sum = k + l; 
+    int diff = k - l; 
+    int product = k * l; 
 
     System.out.println("Sum = " + sum); 
     System.out.println("Difference = " + diff); 
