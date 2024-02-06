@@ -4,16 +4,17 @@ import java.util.Scanner;
 
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter a color: ");
-            String color sc.nextline();
+            
+            String color = sc.nextline();
 
             switch (color){
-                case "red";
+                case "red":
                     System.out.println(1);
                     break;
-                case "green";
+                case "green":
                     System.out.println(2);
                     break;
-                case "black";
+                case "black":
                     System.out.println(3);
                     break;
 
