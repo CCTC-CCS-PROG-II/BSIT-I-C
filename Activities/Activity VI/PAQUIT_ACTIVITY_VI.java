@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PAQUIT_ACTIVITY_XI {
+public class PAQUIT_ACTIVITY_VI {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
 
