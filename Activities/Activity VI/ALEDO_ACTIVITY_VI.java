@@ -8,7 +8,7 @@ public class ALEDO_ACTIVITY_VI {
 
         
         while 
-             (secs > 0) {
+             (secs >= 0) {
                 System.out.println(secs);
                 secs-=1;
             }
