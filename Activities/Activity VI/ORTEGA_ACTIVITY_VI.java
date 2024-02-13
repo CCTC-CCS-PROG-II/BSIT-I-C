@@ -7,7 +7,7 @@ import java.util.Scanner;
           System.out.println("Input Seconds: ");
           countdown = sc.nextInt();
 
-          while(countdown>0) {
+          while(countdown>=0) {
             System.out.println(countdown);
             countdown -= 1;
           }
