@@ -5,16 +5,17 @@ public class LUGATIMAN_ACTIVITY_VI {
      Scanner sc= new Scanner(System.in);
 
     System.out.print("Enter the number of Seconds: ");
-    int input= sc.nextInt();
+    int sec= sc.nextInt();
 
      
-    int count=5 
+   
    
      
-while;
-        do{
-            system.out.println("count:");
-        (x++);
+while
+        (count>=0){
+            system.out.println("second:");
+            
+        sec--;
      }
 
 
