@@ -12,8 +12,7 @@ import java.util.Scanner;
          for (int i = 1; i <= num; i++) {
               factorial *= i;
          } 
-         System.out.println("The factorial of " + num + " is "
-         + factorial);
+         System.out.println("The factorial of " + num + " is " + factorial);
     }
 }
          
