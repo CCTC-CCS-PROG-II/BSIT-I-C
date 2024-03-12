@@ -1,35 +1,30 @@
 import java.util.Scanner;
-23
-public class CANOY_ACTIVITY_III {
-    public static void main(String[] args) {
-        Scanner sr = new Scanner(System.in);
+class LABADLABAD_ACTIVITY_III{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        
+        int scores [][]= new int[5][5];
 
-        final int ROWS = 5;
-        final int COLS = 5;
-
-        int[][] scores = new int[ROWS][COLS];
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Enter scores for 5 students:");
-        for (int i = 0; i < ROWS; i++) {
-            System.out.println("Enter scores for student " + (i + 1) + ": ");
-            for (int j = 0; j < COLS; j++) {
-                scores[i][j] = scanner.nextInt();
+        System.out.println("Enter the scores");
+        
+        for(int i = 0; i < scores.length; i++){
+            for(int j = 0; j < scores.length; j++){
+                System.out.print("Score for row " + (i + 1) + ", column" + (j + 1) + ":");
+                scores[i][j]= sc.nextInt();
             }
         }
 
         int sum = 0;
         int count = 0;
-        for (int i = 0; i < ROWS; i++) {
-            for (int j = 0; j < COLS; j++) {
+        for(int i = 0; i < scores.length; i++){
+            for(int j = 0; j < scores.length; j++){
                 sum += scores[i][j];
                 count++;
             }
         }
+
         double average = (double) sum / count;
 
-        System.out.println("Average of all scores: " + average);
-
-        scanner.close();
+        System.out.println("Average score: " + average);
     }
 }
