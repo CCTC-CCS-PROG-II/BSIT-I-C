@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class LABADLABAD_ACTIVITY_III{
+class CANOY_ACTIVITY_III{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         
