@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LASTIMOSA_ACTIVITY_II.JAVA {
+public class LASTIMOSA_ACTIVITY_II {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
