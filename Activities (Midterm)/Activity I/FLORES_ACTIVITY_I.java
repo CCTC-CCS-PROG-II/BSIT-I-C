@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class FLORES_ACTIVITY_1 {
+public class FLORES_ACTIVITY_I {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
 
