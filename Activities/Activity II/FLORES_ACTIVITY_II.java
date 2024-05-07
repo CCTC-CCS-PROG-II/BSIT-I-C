@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Flores_Activity_2 {
+public class FLORES_ACTIVITY_II {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter first number: ");
