@@ -1,5 +1,5 @@
 import java.util.scanner;
-public class VILLAVER_ACTIVITY 1{
+public class VILLAVER_ACTIVITY_I{
     public static void main(String []args){
         int length = getlength();
         int width = getwidth();
