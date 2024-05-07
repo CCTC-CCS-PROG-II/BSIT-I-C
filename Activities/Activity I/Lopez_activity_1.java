@@ -1,16 +1,19 @@
-public class Lopez_activity_1 {
+class LUGATIMAN_ACTIVITY_I {
+    public static void main ( String[]args){
+        int x = 60;
+        int y = 50;
+        int f = 110;
+        int b = x + y;
+        int a = y * f;
+        int e = f - y;
 
-    public static void main(String[] args) {
-        int a = 25;
-        int b = 45;
-        int c = 56;
-        int d = 86;
-
-        int d = a * b;
-        int f = d + c;
-        System.out.println(d);
-        System.out.println(f);
-
+        System.out.println("SUM" + b);
+        System.out.println("PRODUCT" + a);
+        System.out.println("DIFFERENCE" + e);
     }
-
+    
 }
+
+
+
+
