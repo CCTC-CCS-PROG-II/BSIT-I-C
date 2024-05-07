@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Brusas_Activity_II_Activity_IV {
+public class BRUSAS_ACTIVITY_II_Activity_IV {
     public static void main(String []args){
         Scanner input = new Scanner(System.in);
         String color;
