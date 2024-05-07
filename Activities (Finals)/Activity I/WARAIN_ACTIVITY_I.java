@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class WARAIN_ACTIVITY_I_FINALS {
+public class WARAIN_ACTIVITY_I {
     public static void main(String args[]) 
     {   
 
