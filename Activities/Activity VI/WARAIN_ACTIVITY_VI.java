@@ -1,17 +1,20 @@
 import java.util.Scanner;
-public class Warain_Activity_6{
-    public static void main(String[] args){
-        Scanner sc= new Scanner(System.in);
-        int input = sc.nextInt();
-    
-        System.out.println("Enter the number of Seconds: ");
-    
-        int count = 5;
-    
-        do{
-            System.out.println("count");
-            count++;
-        } while(count <= 5);
-    }
+public class WARAIN_ACTIVITY_VI {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number of seconds: ");
+        int secs = sc.nextInt();
 
+
+        
+        while 
+             (secs >= 0) {
+                System.out.println(secs);
+                secs-=1;
+            }
+        
+        
+         
+    }
 }
+  
