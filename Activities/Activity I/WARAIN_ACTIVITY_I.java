@@ -1,4 +1,4 @@
-public class Warain_Activity_1 {
+public class WARAIN_ACTIVITY_I {
 
     public static void main(String[] args){
     int a = 25;
