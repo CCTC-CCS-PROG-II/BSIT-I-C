@@ -99,4 +99,113 @@ Initialize a variable factorial to 1 to store the factorial.<br><br>
 In each iteration, multiply the current value of factorial with the loop variable i and store the result back in factorial.<br><br>
 
 <code><b>Sample Input:</b> 5</code><br>
-<code><b>Sample Output:</b> 120</code>
+<code><b>Sample Output:</b> 120</code><br><br><br><br>
+
+# Midterm Activities
+The following are the problems of each activities done throughout the midterm period:<br><br>
+
+# Activity I - Name Picker (Arrays)
+<br>
+<b>• Java file creation:</b><br>
+Name the file <code>[LASTNAME]_ACTIVITY_I.java</code><br><br>
+<b>• Task:</b><br>
+Create a program that displays the name chosen from an array.<br><br>
+<b>• Array creation:</b><br>
+Create an array that stores 5 names.<br><br>
+<b>• Prompt for input:</b><br>
+Ask the user to enter a name 5 times.<br><br>
+<b>• Prompt for input:</b><br>
+Ask the user for a number corresponding to a name he/she wants to display.<br><br>
+<b>• Print results:</b><br>
+Display the name selected.<br><br>
+
+<code><b>Sample Input:</b> 1</code><br>
+<code><b>Sample Output:</b> Mark Zuckerberg</code><br><br><br><br>
+
+# Activity II - Average Scores (Looping Over Arrays)
+<br>
+<b>• Java file creation:</b><br>
+Name the file <code>[LASTNAME]_ACTIVITY_II.java</code><br><br>
+<b>• Task:</b><br>
+Create a program that gets the average of all numbers in the manually entered list of scores.<br><br>
+<b>• Array creation:</b><br>
+Create an array that stores 10 scores.<br><br>
+<b>• Prompt for input:</b><br>
+Ask the user to enter scores.
+<br><br>
+<b>• Average calculation:</b><br>
+Calculate the average of all scores entered.<br><br>
+<b>• Print results:</b><br>
+Display the average.<br><br>
+
+<code><b>Sample Input:</b> 1 - 10</code><br>
+<code><b>Sample Output:</b> 5.5</code><br><br><br><br>
+
+# Activity III - Average Scores (Multidimensional Arrays)
+<br>
+<b>• Java file creation:</b><br>
+Name the file <code>[LASTNAME]_ACTIVITY_III.java</code><br><br>
+<b>• Task:</b><br>
+Create a program that gets the average of all numbers in the manually entered list of scores.<br><br>
+<b>• Array creation:</b><br>
+Create a 2D array with 5 rows and 5 columns.<br><br>
+<b>• Prompt for input:</b><br>
+Ask the user to enter scores.<br><br>
+<b>• Average calculation:</b><br>
+Calculate the average of all scores entered.<br><br>
+<b>• Print results:</b><br>
+Display the average.<br><br>
+
+<code><b>Sample Input:</b> 1 - 25</code><br>
+<code><b>Sample Output:</b> 13</code><br><br><br><br>
+
+# Final Activities
+The following are the problems of each activities done throughout the final period:<br><br>
+
+# Activity I - Area of a Rectangle Calculator (Methods)
+<br>
+<b>• Java file creation:</b><br>
+Name the file <code>[LASTNAME]_ACTIVITY_I.java</code><br><br>
+<b>• Task:</b><br>
+Create a program that calculates the area of a rectangle.<br><br>
+<b>• Method creation:</b><br>
+Create a 2 methods which contains each of the required dimensions.<br><br>
+<b>• Prompt for input:</b><br>
+Ask the user to enter the required dimensions to be calculated in the main method.<br><br>
+<b>• Print results:</b><br>
+Display the result.<br><br>
+
+<code><b>Sample Input:</b> 10, 20</code><br>
+<code><b>Sample Output:</b> Area: 200</code><br><br><br><br>
+
+# Activity II - Feet to Inches Converter (Method Parameters)
+<br>
+<b>• Java file creation:</b><br>
+Name the file <code>[LASTNAME]_ACTIVITY_II.java</code><br><br>
+<b>• Task:</b><br>
+Create a program that converts feet to inches.<br><br>
+<b>• Method creation:</b><br>
+Create a method which converts the entered number to inches.<br><br>
+<b>• Prompt for input:</b><br>
+Ask the user to enter the number inside the main method which will be sent to the method you created.<br><br>
+<b>• Print results:</b><br>
+Display the result.<br><br>
+
+<code><b>Sample Input:</b> 12</code><br>
+<code><b>Sample Output:</b> Inches: 144</code><br><br><br><br>
+
+# Activity III - Celsius to Fahrenheit Converter (Returning From Methods)
+<br>
+<b>• Java file creation:</b><br>
+Name the file <code>[LASTNAME]_ACTIVITY_III.java</code><br><br>
+<b>• Task:</b><br>
+Create a program that converts celsius to fahrenheit.<br><br>
+<b>• Method creation:</b><br>
+Create a method which returns the result of the conversion.<br><br>
+<b>• Prompt for input:</b><br>
+Ask the user to enter the number to be converted in the method.<br><br>
+<b>• Print results:</b><br>
+Display the result in the main method.<br><br>
+
+<code><b>Sample Input:</b> 100</code><br>
+<code><b>Sample Output:</b> Fahrenheit: 212</code><br><br><br><br>
