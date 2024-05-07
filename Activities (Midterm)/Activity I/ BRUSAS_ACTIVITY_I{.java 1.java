@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-   public class Brusas_ACTIVITY_I {
+   public class BRUSAS_ACTIVITY_I {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
