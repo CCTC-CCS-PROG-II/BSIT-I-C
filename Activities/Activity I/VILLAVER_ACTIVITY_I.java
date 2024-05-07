@@ -1,4 +1,4 @@
-class Villaver_Activity_I{
+class VILLAVER_Activity_I{
     public static void main(String []args){
         int x = 34;
         int y = 18;
