@@ -1,4 +1,4 @@
-class LUGATIMAN_ACTIVITY_I {
+class LOPEZ_ACTIVITY_I {
     public static void main ( String[]args){
         int x = 60;
         int y = 50;
