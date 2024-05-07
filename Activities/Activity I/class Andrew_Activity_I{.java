@@ -1,4 +1,4 @@
-class Andrew_Activity_I{
+class BRUSAS_ACTIVITY_I{
     public static void main(String[] args){
         
         int x = 5;
