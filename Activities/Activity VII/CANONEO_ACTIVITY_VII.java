@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Canoneo_Activity_VII {
+public class CANONEO_ACTIVITY_VII {
     public static void main(String[] args){
         Scanner sc= new Scanner (System.in);
         
