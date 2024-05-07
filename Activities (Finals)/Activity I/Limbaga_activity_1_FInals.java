@@ -7,13 +7,13 @@ public class Limbaga_activity_1_FInals {
        
        static int getLength(){
         Scanner sc=  new Scanner(System.in);
-        System.out.println("Enter the value of the length: ");
+        System.out.println("You have enter of the lenghth: ");
         return= sc.nextInt();
     }
 
-    static int getWidth(){ 
+    static int getwidth(){ 
         Scanner sc=  new Scanner(System.in);
-        System.out.println("Enter the value of the width: ");
+        System.out.println("You have enter of the width: ");
         return= sc.nextInt()
     }
 }
