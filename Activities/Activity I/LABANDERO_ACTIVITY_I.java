@@ -1,4 +1,4 @@
-class Labandero_Activity_1 {
+class LABANDERO_ACTIVITY_I {
     public static void main(String[] args) { 
         int x = 5;
         int y = 8;
