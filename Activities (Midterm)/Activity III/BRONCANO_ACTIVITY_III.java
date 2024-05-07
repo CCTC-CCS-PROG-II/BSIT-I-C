@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Broncano_Activity_III {
+public class BRONCANO_ACTIVITY_III {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
 
