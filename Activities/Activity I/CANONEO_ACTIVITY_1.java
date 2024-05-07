@@ -1,4 +1,4 @@
-public class Canoneo_ACTIVITY_1 {
+public class CANONEO_ACTIVITY_1 {
 public static void main(String[] args){
     int a = 25;
     int b = 50;
