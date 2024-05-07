@@ -1,5 +1,5 @@
 import java.util.Scanner;
-    public class Broncano_Activity_II {
+    public class BRONCANO_ACTIVITY_II {
         static void convert(int feet){
             int res = feet*12;
             System.out.println("Inches: "+res);
