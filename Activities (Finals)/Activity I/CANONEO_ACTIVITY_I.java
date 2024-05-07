@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Canoneo_Activity_I {
+public class CANONEO_ACTIVITY_I {
     public static void main(String args[]) 
     {   
 
