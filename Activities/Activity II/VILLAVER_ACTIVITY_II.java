@@ -1,5 +1,5 @@
 import java .util.Scanner;
-public class Villaver_ACTIVITY_II{
+public class VILLAVER_ACTIVITY_II{
     public static void main(Stirng []args){
         Scanner input= new Scanner (System.in);
         System.out.print("Enter First number: ");
