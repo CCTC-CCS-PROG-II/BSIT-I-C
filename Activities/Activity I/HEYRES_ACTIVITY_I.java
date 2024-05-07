@@ -1,4 +1,4 @@
-public class ALEDO_ACTIVITY_I {
+public class HEYRES_ACTIVITY_I {
     public static void main(String[] args) {
         int C = 5;
         int B = 10;
