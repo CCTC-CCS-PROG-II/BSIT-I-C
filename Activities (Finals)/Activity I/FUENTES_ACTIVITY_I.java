@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class FUENTES_ACTIVITY_1 {
+public class FUENTES_ACTIVITY_I {
     public static void main(String args[]) 
     {   
 
