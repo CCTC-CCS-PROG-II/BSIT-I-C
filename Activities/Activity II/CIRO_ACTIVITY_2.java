@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ciro_activity_2.java{
+public class CIRO_ACTIVITY_2.java{
     public static void main(String []args){
         Scanner input = new Scanner(System.in);
 
