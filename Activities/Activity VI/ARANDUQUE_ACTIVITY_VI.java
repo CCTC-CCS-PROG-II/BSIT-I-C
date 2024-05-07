@@ -1,16 +1,15 @@
 import java.util.Scanner;
-
 public class ARANDUQUE_ACTIVITY_VI {
-
    public static void main(String[] args){
+      
      Scanner sc = new Scanner (System.in);
-     int num;
-     System.out.println("Enter number: ");
+      int num;
+     System.out.print("Enter the no. of seconds: ");
      int count = sc.nextln();
 
-     while (count >=0){
-        System.out.println(count);
-        cout--;
+     while (count >=100){
+        System.out.println("Countdown");
+        x--;
 
      }
 
