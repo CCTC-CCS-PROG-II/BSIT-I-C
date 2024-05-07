@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Warain_Activity_VII {
+public class WARAIN_ACTIVITY_VII {
 
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
