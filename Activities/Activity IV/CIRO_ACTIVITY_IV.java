@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CIRO_ACTIVITY_IV.java{
+public class CIRO_ACTIVITY_IV.java {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter color (red, green, or black): ");
