@@ -1,4 +1,4 @@
-class ciro.acitivity.java {
+class CIRO.ACTIVITY1.java {
     Public static void main(String []args){
         
         int x = 10;
