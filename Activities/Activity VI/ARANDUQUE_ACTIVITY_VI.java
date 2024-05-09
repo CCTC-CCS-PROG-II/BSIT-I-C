@@ -4,7 +4,7 @@ public class ARANDUQUE_ACTIVITY_VI {
      Scanner sc = new Scanner (System.in);
       
      System.out.print("Enter the no. of seconds: ");
-     int seconds = sc.nextln();
+     int seconds = sc.nextInt();
 
      while (seconds>=0){
         System.out.println(seconds);
