@@ -17,6 +17,7 @@ switch (color){
 
        case "black":
        System.out.println("3 ");
+       break;
        }
     }
 }
