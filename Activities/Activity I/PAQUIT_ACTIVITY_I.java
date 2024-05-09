@@ -1,4 +1,4 @@
-public class Paquit_Activity_I{
+public class PAQUIT_ACTIVITY_I{
     public static void main(String []args){
 
        int x = 20;
