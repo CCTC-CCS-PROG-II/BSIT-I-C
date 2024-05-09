@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ALEDO_ACTIVITY_VI {
+public class CANOY_ACTIVITY_VI {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of seconds: ");
