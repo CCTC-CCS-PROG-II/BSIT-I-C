@@ -1,7 +1,7 @@
 public class ALIBANGO_ACT_I {
     public static void main(String[] args) {
         int X = 10;
-        int Y = 50;
+        int y = 50;
         int Z = 100;
 
         int D = X + Y;
