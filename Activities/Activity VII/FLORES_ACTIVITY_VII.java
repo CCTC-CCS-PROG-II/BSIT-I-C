@@ -1,4 +1,4 @@
-package FLORES_ACTIVITY_VII;
+
 import java.util.Scanner;
 public class FLORES_ACTIVITY_VII {
 
