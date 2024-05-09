@@ -1,17 +1,17 @@
-import java.util.Scanner
-
-public class ARNIDO_ACTIVITY_VII {
-    public static void main(String []args) {
-        Scanner sc= new Scanner(System.in);
+import java.util.Scanner;
+    public class ARNIDO_ACTIVITY_VII {
+        
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
         
         System.out.println("Enter a number: ");
-        int number = sc.nextInt();
+        int num = sc.nextInt();
 
         long factorial = 1;
 
-        for (int i = 1; <=num; i++) {
-            factorial *=i;
+        for (int i = 1; i <= num; i++) {
+            factorial*=i;
         }
-        System.out.println("The Factorial of " + number + " is: " + factorial);
+        System.out.println("The Factorial of " + num + " is " + factorial);
     }
 }
