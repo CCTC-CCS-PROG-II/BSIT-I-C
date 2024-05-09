@@ -1,12 +1,13 @@
 import java.util.Scanner;
 public class VILLANUEVA_ACTIVITY_II {
-    static void feetToInches(double feet) {
-        double res = feet * 12;
-        System.out.print(res);
+    public static void main(String []args){
+        System.out.print("Enter feet/foot: ");
+        Scanner sc = new Scanner(System.in);
+        double num = sc.nextDouble(); 
+
+        convert(num);
     }
-    public static void main (String[]args){
-        int feet = getFree();
-        int inches = feet * 12;
-        System.out.print(inches);
+        static void convert(double num){ 
+        System.out.println(num * 12); 
     }
 }
