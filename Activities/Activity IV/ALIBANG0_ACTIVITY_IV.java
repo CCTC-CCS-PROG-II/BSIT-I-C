@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ALIBANGO_ACT_IV{
+public class ALIBANGO_ACTIVITY_IV{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Please Enter Some Color: ");
