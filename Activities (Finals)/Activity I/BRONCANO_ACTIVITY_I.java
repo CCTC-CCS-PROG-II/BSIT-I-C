@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BROBCANO_ACTIVITY_I {
+public class BRONCANO_ACTIVITY_I {
     public static void main(String args[]) 
     {   
 
