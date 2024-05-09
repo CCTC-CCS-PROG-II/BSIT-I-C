@@ -1,4 +1,4 @@
-class aliabngo_act_1 {
+class ALIBANGO_ACT_I {
     public static void main(String[] args) {
         int X = 10;
         int Y = 50;
