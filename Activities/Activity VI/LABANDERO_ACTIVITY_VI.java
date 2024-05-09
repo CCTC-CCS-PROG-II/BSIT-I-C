@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LABANDERO_ACTIVITY_XI {
+public class LABANDERO_ACTIVITY_VI {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
 
