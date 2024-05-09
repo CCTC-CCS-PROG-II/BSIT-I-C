@@ -1,16 +1,19 @@
 import java.util.Scanner;
 public class FUENTES_ACTIVITY_VII {
-    public static void main(String []args){
-        Scanner Input = new Scanner(system.in);
-      
-        System.out.print(x:"Enter a number");
-        int = input.nextInt();
+    public static void main (String[]args){
+        Scanner sc = new Scanner (System.in);
 
-        long fatorial = 1;
-        for (int i ) 
-    
+        long factorial = 1;
 
+        System.out.println("Enter a Non-Negative Integer:");
+        int num = sc.nextInt();
 
+        for(int i=1; i<=num; i++) {
+            factorial*= i;
+        }
+        System.out.println("The Factorial of "+num+" is: "+factorial);
+    }
+}
     
 
 
