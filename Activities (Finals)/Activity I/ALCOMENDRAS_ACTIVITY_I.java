@@ -8,12 +8,12 @@ import java.util.Scanner;
       System.out.println("Area = "+area);
     }
     static int getLength(){
-      Scanner sc = new Scanner(System.int);
+      Scanner sc = new Scanner(System.in);
       System.out.println("Enter the length of the rectangle: ");
       return sc.nextInt();
     }
     static int getWidth() {
-      Scanner sc = new Scanner(System.int);
+      Scanner sc = new Scanner(System.in);
       System.out.println("Enter the width of the rectangle: ");
       return sc.nextInt();
     }
