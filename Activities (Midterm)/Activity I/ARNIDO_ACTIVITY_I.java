@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ARNIDO_ACTIVTY_I {
+public class ARNIDO_ACTIVITY_I {
         public static void main(String[] agrs) {
             Scanner sc = new Scanner(System.in);
 
