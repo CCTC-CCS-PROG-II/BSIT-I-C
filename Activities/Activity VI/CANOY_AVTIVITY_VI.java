@@ -1,19 +1,15 @@
 import java.util.Scanner;
-public class CANOY_ACTIVITY_VI {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the number of seconds: ");
-        int secs = sc.nextInt();
+public class CANOY_ACTIVITY_VI{
+    public static void main (String[]args){
 
-
-        
-        while 
-             (secs > 0) {
-                System.out.println(secs);
-                secs-=1;
-            }
-        
-        
-         
+    Scanner sc= new Scanner(System.in);
+    int num;
+    System.out.print("Enter the no. of seconds: ");
+    int count = sc.nextInt();
+    
+    while(count>=100){
+        System.out.println(" Countdown");
+        x--;
     }
-}
+    }
+    }
