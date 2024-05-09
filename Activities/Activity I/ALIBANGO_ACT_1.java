@@ -1,4 +1,4 @@
-class ALIBANGO_ACT_I {
+public class ALIBANGO_ACT_I {
     public static void main(String[] args) {
         int X = 10;
         int Y = 50;
@@ -15,5 +15,5 @@ class ALIBANGO_ACT_I {
         System.out.println("Division:" + G);
 
     }
-    
+
 }
