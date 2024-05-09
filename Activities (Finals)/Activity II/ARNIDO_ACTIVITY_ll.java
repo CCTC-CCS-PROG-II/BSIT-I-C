@@ -1,17 +1,16 @@
 import java.util.Scanner;
-public class ARNIDO_ACTIVITY_II{
-    public static void main (String[]agrs) {
-        double res = feet * 12;
-        System.out.println(res);
-}
-    Scanner sc = new Scanner 
-    System.out.print("Enter feet/foot: ");
-        Scanner sc = new Scanner(System.in);
-        double num = sc.nextDouble(); 
 
-        convert(num);
+public class ARNIDO_ACTIVITY_II {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a lenght in feet: ");
+        double num = sc.nextDouble();
+        convertToInches(num);
+        sc.close();
     }
-        static void convert(double num){ 
-        System.out.println(num * 12); 
+
+    static void convertToInches(double num) {
+        double inches = num * 12;
+        System.out.println("Converted to inches: " + inches);
     }
 }
