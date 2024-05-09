@@ -1,19 +1,20 @@
 import java.util.Scanner;
-public class CANOY_PROG_II {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+public class CANOY_ACTIVITY_II {
+public static void main (String[] args){
+ Scanner input= new Scanner (System.in);
+ System.out.print("Enter first number: ");
+ int fnum= input.nextInt();
+ System.out.print("Enter first number: ");
+ int snum= input.nextInt();
 
-        System.out.println("Enter First Number: ");
-        int num1 = sc.nextInt();
-        System.out.println("Enter Second Number: ");
-        int num2 = sc.nextInt();
+ int subtract = fnum-snum;
+ int add = fnum+snum;
+ int product = fnum*snum;
 
-        int ans1 = num1+num2;
-        int ans2 = num1-num2;
-        int ans3 = num1*num2;
+ System.out.println("Difference = " + subtract); 
+ System.out.println("Sum = " + add);
+ System.out.println("Product = " + product);
 
-        System.out.println("Sum = "+ans1);
-        System.out.println("Difference = "+ans2);
-        System.out.println("Product = "+ans3);
-    }
+
+}
 }
