@@ -1,4 +1,4 @@
-public class padayao_ACTIVITY_1 {
+public class PADAYAO_ACTIVITY_1 {
   public static void main (String []args) {
 
       int Q = 10;
