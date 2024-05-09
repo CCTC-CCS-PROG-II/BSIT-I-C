@@ -5,7 +5,7 @@ public static void main (String[]args){
  Scanner input = new Scanner(System.in);
 System.out.print("Enter first number: ");
  int fnum = input.nextInt();
-System.out.print("Enter first number: ");
+System.out.print("Enter second number: ");
 int snum= input.nextInt();
 
 int difference= fnum-snum;
