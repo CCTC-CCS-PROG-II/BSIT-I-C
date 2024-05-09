@@ -1,15 +1,15 @@
 import java.util.Scanner;
+
 public class FLORES_ACTIVITY_II {
+    static void convert(int feet){
+        int res = feet*12;
+        System.out.println("Inches: "+res);
+    }
+    public static void main(String []args){
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter the feet: ");
+        int feet = input.nextInt();
+        convert(feet);
+    }
     
-    public static void main(String[] args){
-        System.out.println("Enter feet/foot:");
-        Scanner sc = new Scanner(System.in);
-        double num = sc.nextDouble();
-
-        convert(num);      
-
-    }
-    static void convert(double num){
-        System.out.println(num * 12);
-    }
 }
