@@ -1,4 +1,4 @@
-public class ALIBANGO_ACT_I {
+public class ALIBANGO_ACT_I{
     public static void main(String[] args) {
         int X = 10;
         int y = 50;
