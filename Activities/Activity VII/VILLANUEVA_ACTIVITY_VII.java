@@ -1,21 +1,16 @@
 import java.util.Scanner;
 public class VILLANUEVA_ACTIVITY_VII {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        int num;
-        System.out.print("Enter a non negative number: ");
-        int number = sc.nextInt();
+    public static void main (String[]args){
+        Scanner sc = new Scanner (System.in);
 
         long factorial = 1;
 
-        for(int i = 1; 1 <= num; i++) {
-            factorial *= 1;
-            
-                System.out.println("Factorial of " + number " is: + factorial);
+        System.out.println("Enter a Non-Negative Integer:");
+        int num = sc.nextInt();
 
-                sc.close();
-            }
+        for(int i=1; i<=num; i++) {
+            factorial*= i;
         }
+        System.out.println("The Factorial of "+num+" is: "+factorial);
     }
-
+}
