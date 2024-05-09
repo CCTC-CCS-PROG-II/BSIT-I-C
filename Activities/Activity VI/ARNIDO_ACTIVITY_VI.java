@@ -1,16 +1,16 @@
 import java.util.Scanner;
 
 public class ARNIDO_ACTIVITY_VI {
-    public static void main(String []args) {
+    public static void main(String []args){
         Scanner sc = new Scanner(System.in);
-          int countdown;
+          
 
           System.out.println("Input Seconds: ");
-          countdown = sc.nextInt();
+          int seconds = sc.nextInt();
 
-          while(countdown>0) {
-            System.out.println(countdown);
-            countdown -= 1;
+          while(seconds>=0){
+            System.out.println(seconds);
+            seconds --;
           }
 
       }
