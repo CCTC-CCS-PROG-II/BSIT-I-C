@@ -6,7 +6,7 @@ public class FLORES_ACTIVITY_I {
         String[] names = new String [5];
 
        for (int i=0; i<names.length; i++){
-        System.out.print("Enter name"+ (i+1) + ": ");
+        System.out.print("Enter name "+ (i+1) + ": ");
         names[i]= sc.nextLine();
        }
        System.out.print("Enter the number on the list of names you want to display:");
