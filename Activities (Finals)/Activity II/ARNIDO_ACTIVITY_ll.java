@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ARNIDO_ACTIVITY_2{
+public class ARNIDO_ACTIVITY_II{
     public static void main (String[]agrs) {
         double res = feet * 12;
         System.out.println(res);
