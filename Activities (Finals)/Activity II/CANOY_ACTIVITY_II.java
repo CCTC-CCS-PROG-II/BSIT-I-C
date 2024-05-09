@@ -1,16 +1,13 @@
 import java.util.Scanner;
-
-public class CANOY_ACTIVITY_II {
-    static void convert(double feet) {
-        int res = feet * 12;
-        System.out.println(res);
+class CANOY_ACTIVITY_II{
+    public static void main(String[] args){
+            System.out.print("Enter feet/foot: ");
+            Scanner sc = new Scanner(System.in);
+            double feet= sc.nextDouble();
+            
+            convert(num);
+        }
+            static void convert(double num){
+            System.out.println(feet * 12);
+        }
     }
-
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Enter the feet: ");
-        int feet = input.nextInt();
-        feetToInches(feet);
-    }
-
-}
