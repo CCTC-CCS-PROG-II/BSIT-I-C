@@ -9,15 +9,15 @@ import java.util.Scanner;
           color = scanner.nextLine();
 
           switch (color) {
-            case "red":
+            case "Red":
             System.out.println("1");
             break;
             
-            case "green":
+            case "Green":
             System.out.println("2");
             break;
 
-            case "black":
+            case "Black":
             System.out.println("3");
             break;
             
@@ -26,4 +26,6 @@ import java.util.Scanner;
           
       
         }
-      }  
+
+    }  
+    
