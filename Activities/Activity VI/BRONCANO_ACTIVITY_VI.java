@@ -1,13 +1,14 @@
+import java.util.Scanner;
 public class BRONCANO_ACTIVITY_VI {
-public static void main(String[] args){
-    Scanner sc = new Scanner ( System.in);
-    int num;
-    System.out.print("Enter number:");
-    int count = sc.nextInt();
+    public static void main (String []args){
+     Scanner sc = new Scanner ( System.in);
+    
+    System.out.print("Enter the number: ");
+    int seconds = sc.nextInt();
 
-    while (count >=0){
-        system.out.print(count);
-        count--;
+ while (seconds >=0){
+              System.out.println(seconds);
+        seconds--;
     } 
-}     
+    }     
 }
