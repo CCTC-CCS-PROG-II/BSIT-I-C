@@ -1,5 +1,5 @@
 import java.util.Scanner;
-    public class UGBINADA_ACTIVITY_II {
+    public class UGBINADA_ACTIVITY_II{
         static void convert(int feet){
             int res = feet*12;
             System.out.println("Inches: "+res);
