@@ -1,17 +1,14 @@
-class LOPEZ_ACTIVITY_I {
-    public static void main ( String[]args){
-        int x = 60;
-        int y = 50;
-        int f = 110;
-        int b = x + y;
-        int a = y * f;
-        int e = f - y;
-
-        System.out.println("SUM" + b);
-        System.out.println("PRODUCT" + a);
-        System.out.println("DIFFERENCE" + e);
-    }
-    
+public class LOPEZ_ACTIVITY_I {
+    public static void main(String[] args) {
+        int x = 5;
+        int y = 8;
+        int z = 10;
+        
+        System.out.println(x + y);
+        System.out.println(z * x);
+        System.out.println(z / y);
+        System.out.println(y - x);
+    }    
 }
 
 
