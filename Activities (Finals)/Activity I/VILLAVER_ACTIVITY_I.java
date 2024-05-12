@@ -1,23 +1,21 @@
-import java.util.scanner;
-public class VILLAVER_ACTIVITY_I{
-    public static void main(String []args){
-        int length = getlength();
-        int width = getwidth();
-        int area = length*width;
-        System.out.println("Area = " + area);
-    }
-        
-        Static int getlength(){
-            Scanner sc = new Scanner(System.in);
-            System.out.print("Enter the value of length: ");
-            return=sc.nextInt;
-        }
+import java.util.Scanner;
+public class VILLAVER_ACTIVITY_I {
+    public static void main(String args[]) 
+    {   
 
-            Static int getwidth(){
-                Scanner sc = new Scanner(System.in);
-                System.out.print("Enter the value of width: ");
-                return=sc.nextInt;
-            }
-            
-        }
-    
+        int length = getlength();
+        int width = getWidth() ;
+        int area = length*width;
+         System.out.println("Area - " + area);    
+   }
+   static int getlength(){
+      Scanner input = new Scanner (System.in);
+      System.out.println("Input your Length:");
+      return input.nextInt();
+   }
+   static int getWidth(){
+      Scanner input = new Scanner (System.in);
+      System.out.println("Input your Width:");
+      return input.nextInt();
+}
+}
