@@ -1,18 +1,19 @@
 import java.util.Scanner;
-public class Villaver_ACTIVITY_VI{
-public Static void main(String[] args);
-
-Scanner sc = new Scanner(System.in);
-System.out.print("Enter the no. of Seconds");
-
-int x=o;
-
-while(x<=100){
-    System.out.prinln("Countdown");
-    x++;
-
-    
+public class VILLAVER_ACTIVITY_VI {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number of seconds: ");
+        int secs = sc.nextInt();
 
 
-}
+        
+        while 
+             (secs >= 0) {
+                System.out.println(secs);
+                secs-=1;
+            }
+        
+        
+         
+    }
 }
